@@ -1,4 +1,4 @@
 git-test
 ========
 
-a git repository for testing purposes
+A git repository for testing purposes
